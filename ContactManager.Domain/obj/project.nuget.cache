@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VzWB5sSsGriSEhf76mHScXEpbx0m7IY2b1UzktxbyZLMfZKVyU6A0bIixdUKTBTanOo3GOmGjcRoKKvmgtsDOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amrin\\source\\repos\\ContactManager\\ContactManager.Domain\\ContactManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amrin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\amrin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

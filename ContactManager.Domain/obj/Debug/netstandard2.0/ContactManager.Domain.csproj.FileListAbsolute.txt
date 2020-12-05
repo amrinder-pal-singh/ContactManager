@@ -1,0 +1,9 @@
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\bin\Debug\netstandard2.0\ContactManager.Domain.deps.json
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\bin\Debug\netstandard2.0\ContactManager.Domain.dll
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\bin\Debug\netstandard2.0\ContactManager.Domain.pdb
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\obj\Debug\netstandard2.0\ContactManager.Domain.AssemblyInfoInputs.cache
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\obj\Debug\netstandard2.0\ContactManager.Domain.AssemblyInfo.cs
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\obj\Debug\netstandard2.0\ContactManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\obj\Debug\netstandard2.0\ContactManager.Domain.dll
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\obj\Debug\netstandard2.0\ContactManager.Domain.pdb
+C:\Users\amrin\source\repos\ContactManager\ContactManager.Domain\obj\Debug\netstandard2.0\ContactManager.Domain.csprojAssemblyReference.cache
