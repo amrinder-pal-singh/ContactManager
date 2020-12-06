@@ -6,7 +6,7 @@ Contact Manager is a CRUD application to manage contacts.
 
 FrontEnd Framework used: Angular 11, Bootstrap 4.5
 
-BackEnd: .Net Core 5.0 API, Entity Framework Core, SQL Server
+BackEnd: .Net Core 5.0 API, Entity Framework Core - code first, SQL Server
 
 ## Requirements To run the Project
 
