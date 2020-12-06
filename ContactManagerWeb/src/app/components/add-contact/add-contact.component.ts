@@ -27,7 +27,7 @@ const data={
     lastname: this.contact.lastname,
     email: this.contact.email,
     phone: this.contact.phone,
-    isactive: this.contact.isactive
+    isactive: true
   }
 
 this.contactsManagerService.create(data)

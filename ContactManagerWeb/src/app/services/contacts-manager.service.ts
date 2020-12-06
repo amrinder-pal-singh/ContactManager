@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
-const baseUrl = 'https://localhost:44386/api/contacts/';
+const baseUrl = 'https://localhost:44386/api/contacts';
 
 @Injectable({
   providedIn: 'root'
@@ -31,9 +31,9 @@ deleteAll(): Observable<any> {
   return this.http.delete(baseUrl);
 }
 
-// findByTitle(title): Observable<any> {
-//   return this.http.get(`${baseUrl}?title=${title}`);
-// }
+findContactByEmail(email): Observable<any> {  
+  return this.http.get(`${baseUrl}/${email}`);
+}
 
 
 }
